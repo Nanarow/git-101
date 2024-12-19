@@ -1,2 +1,4 @@
 Name: John
 Tel: 010-1234-5678
+Address: Seoul
+Birthday: 1990-01-01
